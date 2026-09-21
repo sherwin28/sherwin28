@@ -6,7 +6,7 @@
 
 <a id="english"></a>
 
-## 🇺🇸 English (default)
+## 🇺🇸 English
 
 **AI Solutions Architect · 13 years backend · LLM/RAG/Agent in production**
 
@@ -24,7 +24,7 @@ LLM Agent systems, RAG knowledge bases, and AIOps platforms that ship to product
 - **Frontend**: Vue 3 · React 18 · TypeScript · Ant Design 5 · AntV X6
 - **Infra**: Docker · Kubernetes · Helm · OpenTelemetry · Prometheus · Grafana
 
-Certs: PMP · 软考中级（软件设计师） · TOEFL
+Certs: PMP · China SoftExam Mid-level (Software Designer) · TOEFL
 
 ### Pinned repos (start here)
 
