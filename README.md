@@ -98,11 +98,3 @@ LLM Agent 系统、RAG 知识库、AIOps 平台——能跑生产、扛得住线
 </details>
 
 ---
-
-<details>
-<summary>📊 GitHub stats</summary>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sherwin28&show_icons=true&theme=default)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sherwin28&layout=compact)
-
-</details>
