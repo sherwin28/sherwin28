@@ -10,7 +10,7 @@
 
 **AI Solutions Architect · 13 years backend · LLM/RAG/Agent in production**
 
-📍 Beijing (remote-friendly) · 📧 sherwin28@foxmail.com · 🌐 [javai.tech](https://javai.tech)
+📍 Guangzhou, China (remote-friendly) · 📧 sherwin28@foxmail.com · 🌐 [javai.tech](https://javai.tech)
 
 ### What I build
 
@@ -58,7 +58,7 @@ Certs: PMP · 软考中级（软件设计师） · TOEFL
 
 **AI 解决方案架构师 · 13 年企业级后端 · LLM/RAG/Agent 生产落地**
 
-📍 北京（可远程）· 📧 sherwin28@foxmail.com · 🌐 [javai.tech](https://javai.tech)
+📍 广州（可远程）· 📧 sherwin28@foxmail.com · 🌐 [javai.tech](https://javai.tech)
 
 #### 我做什么
 
